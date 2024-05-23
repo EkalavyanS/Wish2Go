@@ -1,4 +1,4 @@
-# Wish2Go 
+# Wish2Go 🧞‍♂️✈️
 
 Wish2Go is a mobile application that allows users to note down their wishes to visit specific places. When the user is within a 2 km radius of one of their desired destinations, Wish2Go sends a notification to remind them of their wish.
 
